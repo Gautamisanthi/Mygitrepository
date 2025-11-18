@@ -14,5 +14,10 @@ public class createContact {
 		System.out.println("Execute modify contact");
 		
 	}
+	
+	public void addbillingnumber() {
+	System.out.println("execute billing order");
+	
+	}
 			
 }
